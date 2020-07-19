@@ -1,0 +1,11 @@
+D:\ASP.NET\虎扑\NBANews\BLL\bin\Release\BLL.dll
+D:\ASP.NET\虎扑\NBANews\BLL\bin\Release\BLL.pdb
+D:\ASP.NET\虎扑\NBANews\BLL\bin\Release\DAL.dll
+D:\ASP.NET\虎扑\NBANews\BLL\bin\Release\Entity.dll
+D:\ASP.NET\虎扑\NBANews\BLL\bin\Release\DAL.pdb
+D:\ASP.NET\虎扑\NBANews\BLL\bin\Release\Entity.pdb
+D:\ASP.NET\虎扑\NBANews\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+D:\ASP.NET\虎扑\NBANews\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\ASP.NET\虎扑\NBANews\BLL\obj\Release\BLL.csproj.CopyComplete
+D:\ASP.NET\虎扑\NBANews\BLL\obj\Release\BLL.dll
+D:\ASP.NET\虎扑\NBANews\BLL\obj\Release\BLL.pdb

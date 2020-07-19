@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\NBANews\Entity\bin\Debug\Entity.dll
+C:\Users\asus\Desktop\NBANews\Entity\bin\Debug\Entity.pdb
+C:\Users\asus\Desktop\NBANews\Entity\obj\Debug\Entity.dll
+C:\Users\asus\Desktop\NBANews\Entity\obj\Debug\Entity.pdb
+H:\学习\新建文件夹\NBANews\Entity\bin\Debug\Entity.dll
+H:\学习\新建文件夹\NBANews\Entity\bin\Debug\Entity.pdb
+H:\学习\新建文件夹\NBANews\Entity\obj\Debug\Entity.dll
+H:\学习\新建文件夹\NBANews\Entity\obj\Debug\Entity.pdb
+D:\ASP.NET\虎扑\NBANews\Entity\bin\Debug\Entity.dll
+D:\ASP.NET\虎扑\NBANews\Entity\bin\Debug\Entity.pdb
+D:\ASP.NET\虎扑\NBANews\Entity\obj\Debug\Entity.dll
+D:\ASP.NET\虎扑\NBANews\Entity\obj\Debug\Entity.pdb
+D:\ASP.NET\虎扑\NBANews\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\ASP.NET\虎扑\NBANews\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache

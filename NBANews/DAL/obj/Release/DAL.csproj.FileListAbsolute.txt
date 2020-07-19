@@ -1,0 +1,9 @@
+D:\ASP.NET\虎扑\NBANews\DAL\bin\Release\DAL.dll
+D:\ASP.NET\虎扑\NBANews\DAL\bin\Release\DAL.pdb
+D:\ASP.NET\虎扑\NBANews\DAL\bin\Release\Entity.dll
+D:\ASP.NET\虎扑\NBANews\DAL\bin\Release\Entity.pdb
+D:\ASP.NET\虎扑\NBANews\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+D:\ASP.NET\虎扑\NBANews\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\ASP.NET\虎扑\NBANews\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\ASP.NET\虎扑\NBANews\DAL\obj\Release\DAL.dll
+D:\ASP.NET\虎扑\NBANews\DAL\obj\Release\DAL.pdb
